@@ -66,9 +66,9 @@ body {
   line-height: 0.85em;
 }
 
-/* .banner p:first-child::first-letter {
-  margin-right: 5%;
-} */
+.banner p:first-child::first-letter {
+  margin-right: -5%;
+}
 
 .banner p:first-child {
   margin-top: -0.25em;
